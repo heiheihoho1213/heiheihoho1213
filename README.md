@@ -58,7 +58,12 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=heiheihoho1213&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 
-![GitHub Snake Light](https://raw.githubusercontent.com/heiheihoho1213/heiheihoho1213/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/heiheihoho1213/heiheihoho1213/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+👾 趣味迷宫 (贡献图)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heiheihoho1213/heiheihoho1213/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heiheihoho1213/heiheihoho1213/output/pacman-contribution-graph-dark.svg">
+  <img alt="吃豆人风格贡献图" src="https://raw.githubusercontent.com/heiheihoho1213/heiheihoho1213/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>  
