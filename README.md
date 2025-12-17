@@ -16,6 +16,12 @@
 ### Connect with me    
 
 <div>
+<a href="https://juejin.cn/user/2911933190649815/posts" target="blank">稀土掘金</a>
+<a href="https://www.facebook.com/du.heng.146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heihei" height="30" width="40" /></a>
+</div>
+
+<!--
+<div>
 <a href="https://dev.to/heihei_hengdu1992_0afebb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="heihei" height="30" width="40" /></a>
 <a href="https://www.facebook.com/du.heng.146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heihei" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@heiheiheng.du1992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="heihei" height="30" width="40" /></a>
@@ -65,5 +71,5 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heiheihoho1213/heiheihoho1213/output/pacman-contribution-graph-dark.svg">
   <img alt="吃豆人风格贡献图" src="https://raw.githubusercontent.com/heiheihoho1213/heiheihoho1213/output/pacman-contribution-graph.svg">
 </picture>
-
+-->
 </div>  
