@@ -1,15 +1,11 @@
 <div align="center">    
 
-# Hi <img height="36px" width="36px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm a Full Stack Developer. 👨🏻‍💻
+## Hi <img height="36px" width="36px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm a Full Stack Developer. 👨🏻‍💻
 
 
 ### A professional button presser.    
 
-👨‍💻 All of my projects are available at [blog](https://www.monto-blog.fun/) and [AI-App](https://monto-fe.github.io/AI-app-container/).
-
-📝 I regularly write articles [here](https://juejin.cn/user/2911933190649815).
-
-⚡ I love games and sports.
+👨‍💻 All of my projects are available at [blog](https://www.monto-blog.fun/) and [AI-App](https://monto-fe.github.io/AI-app-container/).  📝 I regularly write articles [here](https://juejin.cn/user/2911933190649815).  ⚡ I love games and sports.
 
 ![Profile Views Counter](https://komarev.com/ghpvc/?username=heiheihoho1213&style=for-the-badge)
 
